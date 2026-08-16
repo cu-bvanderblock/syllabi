@@ -1,13 +1,13 @@
 # Render Markdown syllabi to PDF / DOCX with pandoc.
 # Markdown is the source of truth; outputs are regenerated (and gitignored).
 
-SOURCES := $(wildcard */syllabus.md)
+SOURCES := $(wildcard */*.md)
 PDFS    := $(SOURCES:.md=.pdf)
 DOCXS   := $(SOURCES:.md=.docx)
 
 PANDOC        ?= pandoc
 PANDOC_FLAGS  := --from=gfm --standalone
-PDF_ENGINE    ?= pdflatex
+PDF_ENGINE    ?= typst
 
 .PHONY: all pdf docx clean check
 
@@ -26,9 +26,13 @@ docx: $(DOCXS)
 check:
 	@command -v $(PANDOC) >/dev/null 2>&1 || { \
 		echo "pandoc not found. Install with: brew install pandoc"; \
-		echo "For PDF output also install a LaTeX engine, e.g.: brew install --cask basictex"; \
 		exit 1; }
-	@echo "pandoc: $$($(PANDOC) --version | head -1)"
+	@command -v $(PDF_ENGINE) >/dev/null 2>&1 || { \
+		echo "PDF engine '$(PDF_ENGINE)' not found. Install with: brew install typst"; \
+		echo "(or set PDF_ENGINE=xelatex etc. if you prefer a LaTeX engine)"; \
+		exit 1; }
+	@echo "pandoc:  $$($(PANDOC) --version | head -1)"
+	@echo "engine:  $(PDF_ENGINE) $$($(PDF_ENGINE) --version 2>/dev/null | head -1)"
 
 clean:
 	rm -f $(PDFS) $(DOCXS)
