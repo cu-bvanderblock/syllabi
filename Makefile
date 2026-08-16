@@ -17,10 +17,10 @@ pdf: $(PDFS)
 docx: $(DOCXS)
 
 %.pdf: %.md
-	$(PANDOC) $(PANDOC_FLAGS) --pdf-engine=$(PDF_ENGINE) -o $@ $<
+	$(PANDOC) $(PANDOC_FLAGS) --resource-path=$(dir $<) --pdf-engine=$(PDF_ENGINE) -o $@ $<
 
 %.docx: %.md
-	$(PANDOC) $(PANDOC_FLAGS) -o $@ $<
+	$(PANDOC) $(PANDOC_FLAGS) --resource-path=$(dir $<) -o $@ $<
 
 # Fail early with a helpful message if pandoc is missing.
 check:
