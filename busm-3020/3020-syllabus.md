@@ -124,6 +124,24 @@ Practice questions are provided in advance.
 > considered cheating. As such, we will be using Proctorio proctoring software
 > during all exams and quizzes.
 
+## Use of AI
+
+CU Boulder provides **ChatGPT Edu** to students (access begins Aug 14, 2026,
+after you complete the required Student Training Course in Canvas). For this
+course:
+
+- **BUSM 3020 is theory- and statistics-heavy** — the emphasis is on knowledge
+  you must *learn and retain*, not merely apply. Treat AI as a **learning
+  assistant only**. (Its corequisite, BUSM 3021, integrates AI more directly
+  into the coursework.)
+- **Exams: not permitted.** Using any AI tool during exams or quizzes is
+  prohibited and treated as an Honor Code violation.
+- **Study aid: permitted.** You may use AI to explain concepts, check your
+  reasoning, or generate practice problems.
+- **Homework: permitted, but use it to learn.** AI assistance on homework is
+  allowed; however, using it to *produce answers* instead of understanding the
+  material works to your detriment — exams reward what you have genuinely learned.
+
 ## Additional Policies
 
 ### Excused Absences / Assignment Extensions
