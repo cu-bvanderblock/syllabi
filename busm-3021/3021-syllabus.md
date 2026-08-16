@@ -8,7 +8,7 @@ instructor_email: brett.block@colorado.edu
 canvas: canvas.colorado.edu
 ---
 
-# BUSM 3021 — Business & Financial Analytics II
+# BUSM 3021: Business & Financial Analytics II
 
 > **Placeholder.** Syllabus content not yet imported. Source available:
 > "BUSM 3021-001-SP24 Syllabus" (Google Doc). Replace this file with the
