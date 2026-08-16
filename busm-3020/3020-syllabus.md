@@ -8,14 +8,14 @@ instructor_email: brett.block@colorado.edu
 canvas: canvas.colorado.edu
 ---
 
-# BUSM 3020 — Business & Financial Analytics I
+# BUSM 3020: Business & Financial Analytics I
 
 | | |
 | :--- | :--- |
 | **Instructor** | Brett Vanderblock |
 | **Email** | [brett.block@colorado.edu](mailto:brett.block@colorado.edu) |
-| **Lecture** | TTH 12:30p – 1:45p — REMOTE / KOBL 102 |
-| **Office Hours** | Thursdays 3:30p – 4:30p |
+| **Lecture** | TTH 12:30p - 1:45p, REMOTE / KOBL 102 |
+| **Office Hours** | Thursdays 3:30p - 4:30p |
 | **Course Site** | canvas.colorado.edu |
 | **TA** | Tanvi Nimbalkar ([tani4057@colorado.edu](mailto:tani4057@colorado.edu)) |
 | **Zoom** | <https://cuboulder.zoom.us/j/5459996921> |
@@ -53,13 +53,13 @@ can access CONNECT via Canvas, and registration instructions will be emailed to
 you. The cost of Connect will be billed to your account via the CU Bookstore
 automatically. **There is no need to purchase textbooks separately.**
 
-- *Business Statistics: Communicating with Numbers* 4e — Jaggia & Kelly —
+- *Business Statistics: Communicating with Numbers* 4e by Jaggia & Kelly,
   ISBN: 9781260567561
 
 ### → Bring a laptop w/ Excel 2019 or newer
 
 In this course we'll be applying our analytics learnings directly through
-Microsoft Excel — be sure to **have your computer with Excel available for each
+Microsoft Excel; be sure to **have your computer with Excel available for each
 lesson**. For the benefit of your and your peers' learning experience, only open
 your laptop when instructed to do so.
 
@@ -105,10 +105,10 @@ homework assignments. Please check the course schedule for the due dates.
 In a professional setting, business analytics is almost always a collaborative
 exercise with peers and stakeholders in your organization. You'll be given one
 opportunity to apply analytic concepts to real world business problems in a team
-setting — approximately three students to a team. Students are expected to share
+setting, approximately three students to a team. Students are expected to share
 the workload on this case assignment and will have a chance for a peer assessment.
 
-### Exams (25% each — midterm and final)
+### Exams (25% each: midterm and final)
 
 There will be two open-book, open-note exams administered through Canvas. They
 will be a combination of true/false, case study, and multiple choice questions;
@@ -130,7 +130,7 @@ CU Boulder provides **ChatGPT Edu** to students (access begins Aug 14, 2026,
 after you complete the required Student Training Course in Canvas). For this
 course:
 
-- **BUSM 3020 is theory- and statistics-heavy** — the emphasis is on knowledge
+- **BUSM 3020 is theory- and statistics-heavy**: the emphasis is on knowledge
   you must *learn and retain*, not merely apply. Treat AI as a **learning
   assistant only**. (Its corequisite, BUSM 3021, integrates AI more directly
   into the coursework.)
@@ -140,7 +140,7 @@ course:
   reasoning, or generate practice problems.
 - **Homework: permitted, but use it to learn.** AI assistance on homework is
   allowed; however, using it to *produce answers* instead of understanding the
-  material works to your detriment — exams reward what you have genuinely learned.
+  material works to your detriment; exams reward what you have genuinely learned.
 
 ## Additional Policies
 
