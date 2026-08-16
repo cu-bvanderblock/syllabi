@@ -69,7 +69,7 @@ Microsoft Online is available free here:
 ## Assignments and Grading
 
 In this course, your grade consists of **participation (10%)**, homework
-**assignments (20%)**, two exams (**25% for the midterm** and **25% for the
+**assignments (15%)**, two exams (**25% for the midterm** and **30% for the
 final**), and a **team project (20%)**.
 
 All graded items and final course grades are considered final one week after
@@ -86,7 +86,7 @@ adopting a "Learn by Doing" approach. To reinforce this, a portion of your grade
 will be based on in-class participation. **For each class, 1 participation point
 is awarded for attendance.**
 
-### Homework and PlayPosit Videos (20%)
+### Homework and PlayPosit Videos (15%)
 
 After each of our lectures, you are assigned corresponding homework **assignments
 in McGraw-Hill Connect**. The due dates for these modules are indicated on the
@@ -108,13 +108,20 @@ opportunity to apply analytic concepts to real world business problems in a team
 setting — approximately three students to a team. Students are expected to share
 the workload on this case assignment and will have a chance for a peer assessment.
 
-### Exams (25% each — midterm and final)
+Each team will also deliver a short **in-class presentation** of their findings.
+The presentation is part of the team project grade and gives you practice
+communicating analytic results to an audience.
+
+### Exams (Midterm 25%, Final 30%)
 
 There will be two open-book, open-note exams administered through Canvas. They
 will be a combination of true/false, case study, and multiple choice questions;
 and will require the use of Excel. The exam dates are listed on the course
 schedule, and the final exam schedule is posted on the CU website. Discuss any
 conflicts with the exam dates by the end of the first week of class.
+
+The **final is partially cumulative**: it centers on material covered after the
+midterm but also revisits key concepts from the first half of the course.
 
 Practice questions are provided in advance.
 
