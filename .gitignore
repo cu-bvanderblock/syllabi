@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Rendered outputs (regenerated from Markdown source)
+*.pdf
+*.docx
+
+# Editor / tooling junk
+.vscode/
+*.swp
+*~
