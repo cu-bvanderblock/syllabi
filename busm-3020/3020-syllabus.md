@@ -10,7 +10,7 @@ canvas: canvas.colorado.edu
 
 # BUSM 3020: Business & Financial Analytics I
 
-![Brett Vanderblock, instructor](assets/instructor.jpg){width=1.4in}
+![Brett Vanderblock, instructor](assets/instructor.jpg)
 
 | | |
 | :--- | :--- |
@@ -71,7 +71,7 @@ Microsoft Online is available free here:
 ## Assignments and Grading
 
 In this course, your grade consists of **participation (10%)**, homework
-**assignments (15%)**, two exams (**25% for the midterm** and **30% for the
+**assignments (20%)**, two exams (**25% for the midterm** and **25% for the
 final**), and a **team project (20%)**.
 
 All graded items and final course grades are considered final one week after
@@ -88,7 +88,7 @@ adopting a "Learn by Doing" approach. To reinforce this, a portion of your grade
 will be based on in-class participation. **For each class, 1 participation point
 is awarded for attendance.**
 
-### Homework and PlayPosit Videos (15%)
+### Homework and PlayPosit Videos (20%)
 
 After each of our lectures, you are assigned corresponding homework **assignments
 in McGraw-Hill Connect**. The due dates for these modules are indicated on the
@@ -114,7 +114,7 @@ Each team will also deliver a short **in-class presentation** of their findings.
 The presentation is part of the team project grade and gives you practice
 communicating analytic results to an audience.
 
-### Exams (Midterm 25%, Final 30%)
+### Exams (25% each: midterm and final)
 
 There will be two open-book, open-note exams administered through Canvas. They
 will be a combination of true/false, case study, and multiple choice questions;
