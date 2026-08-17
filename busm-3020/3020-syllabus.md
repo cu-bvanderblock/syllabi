@@ -1,6 +1,6 @@
 ---
 course: BUSM 3020
-title: Business & Financial Analytics I
+course_title: Business & Financial Analytics I
 section: "001"
 term: Fall 2026
 instructor: Brett Vanderblock
