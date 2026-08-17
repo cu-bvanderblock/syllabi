@@ -10,6 +10,8 @@ canvas: canvas.colorado.edu
 
 # BUSM 3020: Business & Financial Analytics I
 
+![Brett Vanderblock, instructor](assets/instructor.jpg){width=1.4in}
+
 | | |
 | :--- | :--- |
 | **Instructor** | Brett Vanderblock |
