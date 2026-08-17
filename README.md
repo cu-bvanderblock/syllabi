@@ -10,9 +10,9 @@ semester to the next.
 ```
 .
 ├── busm-3020/
-│   └── 3020-syllabus.md   # BUSM 3020 — Business & Financial Analytics I
+│   └── 3020-syllabus.md   # BUSM 3020: Business & Financial Analytics I
 ├── busm-3021/
-│   └── 3021-syllabus.md   # BUSM 3021 — Business & Financial Analytics II (placeholder)
+│   └── 3021-syllabus.md   # BUSM 3021: Business & Financial Analytics II (placeholder)
 ├── Makefile               # render Markdown → PDF / DOCX via pandoc
 └── README.md
 ```
@@ -29,7 +29,7 @@ term-to-term diffs stay easy to read.
 
 ## Rendering (pandoc)
 
-Rendered outputs (`*.pdf`, `*.docx`) are **not** committed — they are
+Rendered outputs (`*.pdf`, `*.docx`) are **not** committed; they are
 regenerated from the Markdown. Requires pandoc, plus a PDF engine
 ([typst](https://typst.app), a lightweight single binary):
 
