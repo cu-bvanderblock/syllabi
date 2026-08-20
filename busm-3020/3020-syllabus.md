@@ -16,7 +16,7 @@ canvas: canvas.colorado.edu
 | :--- | :--- |
 | **Instructor** | Brett Vanderblock |
 | **Email** | [brett.block@colorado.edu](mailto:brett.block@colorado.edu) |
-| **Lecture** | TTH 12:30p - 1:45p, REMOTE / KOBL 102 |
+| **Lecture** | TTH 12:30p - 1:45p, CLRE 207 |
 | **Course Site** | canvas.colorado.edu |
 | **TA** | Emily Sefton ([Emily.Sefton@colorado.edu](mailto:Emily.Sefton@colorado.edu)) |
 | **Zoom** | <https://cuboulder.zoom.us/j/5459996921> |
