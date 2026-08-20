@@ -16,10 +16,9 @@ canvas: canvas.colorado.edu
 | :--- | :--- |
 | **Instructor** | Brett Vanderblock |
 | **Email** | [brett.block@colorado.edu](mailto:brett.block@colorado.edu) |
-| **Lecture** | TTH 12:30p - 1:45p, REMOTE / KOBL 102 |
-| **Office Hours** | Thursdays 3:30p - 4:30p |
+| **Lecture** | TTH 12:30p - 1:45p, CLRE 207 |
 | **Course Site** | canvas.colorado.edu |
-| **TA** | Tanvi Nimbalkar ([tani4057@colorado.edu](mailto:tani4057@colorado.edu)) |
+| **TA** | Emily Sefton ([Emily.Sefton@colorado.edu](mailto:Emily.Sefton@colorado.edu)) |
 | **Zoom** | <https://cuboulder.zoom.us/j/5459996921> |
 
 ## About BUSM 3020
