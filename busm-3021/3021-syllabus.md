@@ -62,6 +62,12 @@ Microsoft Online is available free here:
 In your Chrome browser, go to <https://colab.new>. We use Python through Google
 Colab for parts of this course. **No coding experience is required.**
 
+### → ChatGPT Edu account
+
+CU Boulder provides ChatGPT Edu to all students at no cost. A ChatGPT Edu account
+is **required for the course project**. See the Use of AI section for how GenAI
+is used in this course.
+
 ## Assignments and Grading
 
 In this course, your grade consists of **participation (10%)**, **homework
@@ -90,16 +96,17 @@ Canvas** (up to 3 attempts) and submissions where you **upload your work**
 through Canvas. Submissions will not be allowed once the deadline has passed.
 
 One **special project** is included and counts for 20% of your homework grade
-(10% of your overall grade). See the course schedule for details.
+(10% of your overall grade); it is **due Tuesday, December 1** and requires a
+ChatGPT Edu account. See the course schedule for details.
 
 ### Exams: Midterm and Final (40%)
 
-There are two exams, a **midterm (20%)** and a **final (20%)**, administered
-through Canvas (use Chrome). They combine multiple choice, true/false, and
-open-response questions, and are **open-book and open-note**, using Excel and
-Google Colab on your computer. The **final is not comprehensive**; it covers the
-second half of the course. Exam dates are listed on the course schedule, and the
-final exam schedule is posted on the CU website. Discuss any exam conflicts by
+There are two exams, a **midterm (20%)** on **Tuesday, November 3** and a
+**final (20%)** on **Thursday, December 3**, both taken **in class** on your
+computer through Canvas (use Chrome). They combine multiple choice, true/false,
+and open-response questions, and are **open-book and open-note**, using Excel and
+Google Colab. The **final is not comprehensive**; it covers the second half of
+the course. Practice exams are provided in advance. Discuss any exam conflicts by
 the **end of the second week of class**.
 
 > **Note:** It is considered a violation of the Honor Code to copy or otherwise
@@ -110,12 +117,12 @@ the **end of the second week of class**.
 
 ## Use of AI
 
-CU Boulder provides **ChatGPT Edu** to students. In this course you may use
-GenAI as a **coding and analytics aid**: for example, to help you understand
-Python, debug a Colab notebook, or explore approaches to a problem. You remain
-responsible for the correctness and integrity of anything you submit. Using any
-AI tool during the midterm or final is prohibited and treated as an Honor Code
-violation.
+CU Boulder provides **ChatGPT Edu** to students, and a ChatGPT Edu account is
+**required for the course project**. In this course you may use GenAI as a
+**coding and analytics aid**: for example, to help you understand Python, debug a
+Colab notebook, or explore approaches to a problem. You remain responsible for
+the correctness and integrity of anything you submit. Using any AI tool during
+the midterm or final is prohibited and treated as an Honor Code violation.
 
 ## Additional Policies
 
