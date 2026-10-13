@@ -23,10 +23,11 @@ canvas: canvas.colorado.edu
 
 ## About BUSM 3021
 
-**Course Focus:** use of quantitative tools to interpret and solve important
-problems in business and finance. Makes use of spreadsheet modeling, analysis,
-and mini cases to present material. Ideal for those interested in quantitative
-methods and modeling.
+**Course Focus:** this course translates your business statistics foundations
+into applied, real-world analytics and decision science. You will gain hands-on
+tools of the trade, including Python (via Google Colab), logistic regression,
+decision trees, Monte Carlo simulation, and linear programming, to support
+better business decisions.
 
 **Prerequisites:** Requires corequisite of BUSM 3020. Restricted to students
 pursuing Business Minor (BUSM-MIN).
@@ -36,78 +37,77 @@ pursuing Business Minor (BUSM-MIN).
 After successfully completing this course, you will:
 
 1. Translate what you've learned to real-world analytics work.
-2. Understand advanced classification techniques and the fundamentals of data
+2. Learn decision-making frameworks to navigate risk.
+3. Understand advanced classification techniques and the fundamentals of data
    mining.
-3. Leverage linear programming in guiding business decisions.
-4. Make better, more informed decisions.
+4. Leverage linear programming in guiding business decisions.
+5. Make better, more informed decisions.
 
 ## Required Course Materials (No Purchases Necessary)
 
-### → McGraw Hill Connect
+This course has **no required textbook**. You will need the following:
 
-We will be using McGraw Hill's CONNECT for our textbook and online homework. You
-can access CONNECT via Canvas, and registration instructions will be emailed to
-you. The cost of Connect will be billed to your account via the CU Bookstore
-automatically. **There is no need to purchase textbooks separately.**
-
-- *Business Analytics: Communicating with Numbers* 2e by Jaggia,
-  ISBN: 9781264302802
-
-> **Note:** This is a different textbook than BUSM 3020.
-
-- *Spreadsheet Modeling and Decision Analysis* by Ragsdale,
-  ISBN: 9781305947412 (text is optional)
-
-### → Bring a laptop w/ Excel 2019 or newer
+### → A laptop with Excel 2019 or newer
 
 In this course we'll be applying our analytics learnings directly through
-Microsoft Excel; be sure to **have your computer with Excel available for each
-lesson**. For the benefit of your and your peers' learning experience, only open
-your laptop when instructed to do so.
+Microsoft Excel, so have your computer with Excel available for each lesson.
+This class is **phone-free**: please keep your phone put away during class, and
+only open your laptop when instructed to do so.
 
 Microsoft Online is available free here:
 <https://portal.office.com/OLS/MySoftware.aspx>.
 
-### → Access ChatGPT Edu
+### → Google Colab (Python)
 
-CU Boulder provides ChatGPT Edu to all students. We dedicate a lesson to using
-GenAI in support of data analytics work, so have your access set up early. See
-the **Use of AI** section below for how it is used in this course.
+In your Chrome browser, go to <https://colab.new>. We use Python through Google
+Colab for parts of this course. **No coding experience is required.**
+
+### → ChatGPT Edu account
+
+CU Boulder provides ChatGPT Edu to all students at no cost. A ChatGPT Edu account
+is **required for the course project**. See the Use of AI section for how GenAI
+is used in this course.
 
 ## Assignments and Grading
 
-In this course, your grade consists of **participation (10%)**, homework
-**assignments (50%)**, and **one final exam (40%)**.
+In this course, your grade consists of **participation (10%)**, **homework
+including a project (50%)**, and **two exams (midterm 20% and final 20%)**.
 
 All graded items and final course grades are considered final one week after
 being made available to students, unless otherwise stated. Please **check Canvas
 for posted grades**.
 
-**Final course grades may be curved up, but never down**, in accordance with the
-Leeds Grading Guidelines.
+The college target is a **3.0 (B) average**. Final course grades may be curved
+up toward that target, but never down, in accordance with the Leeds Grading
+Guidelines.
 
 ### Participation & Attendance (10%)
 
 Working in Business Analytics is a practice in applying theoretical concepts and
 adopting a "Learn by Doing" approach. To reinforce this, a portion of your grade
-will be based on in-class participation. **For each class, 1 participation point
-is awarded for attendance.**
+is based on participation: for each class, complete the **daily Canvas quiz** (a
+password is provided in class).
 
-### Homework (50%)
+### Homework and Project (50%)
 
-After most of our lectures, you are assigned corresponding homework
-**assignments in McGraw-Hill Connect or Canvas**. The due dates for these
-modules are indicated on the course calendar as well as on Connect. Each
-assignment is due by midnight MST of its due date. Submissions will not be
-allowed once the deadline has passed.
+Homework is assigned through **Canvas** and is generally due the following
+**Monday at midnight**. Assignments come in two formats: a **quiz format in
+Canvas** (up to 3 attempts) and submissions where you **upload your work**
+through Canvas. Submissions will not be allowed once the deadline has passed.
 
-### Final Exam (40%)
+One **special project** is included and counts for 20% of your homework grade
+(10% of your overall grade); it is **due Tuesday, December 1** and requires a
+ChatGPT Edu account. See the course schedule for details.
 
-There will be one open-book, open-note exam administered through Canvas. It will
-be a combination of true/false, case study, and multiple choice questions; and
-will require the use of Excel. The exam date is listed on the course schedule,
-and the final exam schedule is posted on the CU website. Discuss any conflicts
-with the exam date by the end of the first week of class.
+### Exams: Midterm and Final (40%)
+
+There are two exams, a **midterm (20%)** on **Tuesday, November 3** and a
+**final (20%)** on **Thursday, December 3**, both taken **in class** on your
+computer through Canvas (use Chrome). They combine multiple choice, true/false,
+and open-response questions, and are **open-book and open-note**, using Excel and
+Google Colab. The **final is not comprehensive**; it covers the second half of
+the course. Practice exams are provided in advance. Discuss any exam conflicts by
+the **end of the second week of class**.
 
 > **Note:** It is considered a violation of the Honor Code to copy or otherwise
 > record any exam/quiz questions for the aid of others. Further, any and all
@@ -117,18 +117,12 @@ with the exam date by the end of the first week of class.
 
 ## Use of AI
 
-CU Boulder provides **ChatGPT Edu** to students (access begins Aug 14, 2026,
-after you complete the required Student Training Course in Canvas). Unlike BUSM
-3020, this course **integrates GenAI directly into the coursework**: we dedicate
-a lesson to using GenAI for data analytics work, and you are encouraged to use
-these tools on homework and applied exercises.
-
-- **Coursework and homework: encouraged.** Using GenAI to explore data,
-  prototype models, and check your analytics work is part of this course. You
-  remain responsible for the correctness of anything you submit.
-- **Final exam: not permitted.** The final is open-book and open-note but
-  proctored through Proctorio; using any AI tool during it is prohibited and
-  treated as an Honor Code violation.
+CU Boulder provides **ChatGPT Edu** to students, and a ChatGPT Edu account is
+**required for the course project**. In this course you may use GenAI as a
+**coding and analytics aid**: for example, to help you understand Python, debug a
+Colab notebook, or explore approaches to a problem. You remain responsible for
+the correctness and integrity of anything you submit. Using any AI tool during
+the midterm or final is prohibited and treated as an Honor Code violation.
 
 ## Additional Policies
 
