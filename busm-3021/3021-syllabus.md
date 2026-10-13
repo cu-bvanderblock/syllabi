@@ -8,6 +8,8 @@ instructor_email: brett.block@colorado.edu
 canvas: canvas.colorado.edu
 ---
 
+![BUSM 3021 course banner](assets/banner.png)
+
 # BUSM 3021: Business & Financial Analytics II
 
 ![Brett Vanderblock, instructor](assets/instructor.jpg)
